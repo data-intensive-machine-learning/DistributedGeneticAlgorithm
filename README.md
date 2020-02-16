@@ -15,13 +15,20 @@
 <h3 style="text-align:center; font-size: 30px"> Innovation</h3>
 <p> Hierarchical implementation of a distributed genetic algorithm to find the minimal rough set reduction</p>
 <h3 style="text-align:center; font-size: 30px">Objectives</h3>
-  <<ul>
+  <ul>
       <li>Computation</li>
         <li>Implementation</li>
           <li>Strategies</li>
             <li>Optimization Method</li>
-  <li> Best Fit Population
+  <li> Best Fit Population</li>
     </ul>
     
 <h3 style="text-align:center; font-size: 30px"> Implementation</h3>
 <p> Scala in context of spark while results will be evaluated on cluster Scala helps to dig deep into the Spark's source code thats aids developers to easily access and implement new features of Spark
+<h3 style="text-align:center; font-size: 30px"> Our Team</h3>
+ <ul style="list-style:none;">
+      <li>Shahzad Bashir</li>
+        <li>Fatima Shahid Hashmi</li>
+          <li>Nageen Asghar</li>
+          
+    </ul>
