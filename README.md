@@ -32,4 +32,16 @@
           <li>Nageen Asghar</li>
           
     </ul>
-    <button  style="  padding: 10px 20px;  border-radius: 10px;  background-color:  #00e6ac;" type="button" name="button" id="btn">Project Proposal</button>
+   
+<button  style=" margin-top:30px; padding: 10px 20px;  border-radius: 10px;  background-color:   #009973; border: 2px solid  #009973; color:white;" type="button" name="button" id="btn">
+<a  style="text-decoration: none; color:white;"href="#">Project Proposal</a>
+</button>
+
+<button  style=" margin-top:30px; padding: 10px 20px;  border-radius: 10px;  background-color:   #009973; border: 2px solid  #009973; color:white;" type="button" name="button" id="btn">
+<a  style="text-decoration: none; color:white;"href="#">Documentation</a>
+</button>
+
+<button  style=" margin-top:30px; padding: 10px 20px;  border-radius: 10px;  background-color:   #009973; border: 2px solid  #009973; color:white;" type="button" name="button" id="btn">
+<a  style="text-decoration: none; color:white;"href="#">Implementation plan</a>
+</button>
+
