@@ -34,11 +34,11 @@
     </ul>
    
 <button  style=" margin-top:30px; padding: 10px 20px; margin-left:60px; border-radius: 10px;  background-color:   #009973; border: 2px solid  #009973; color:white;" type="button" name="button" id="btn">
-<a  style="text-decoration: none; color:white;"  href="#">Project Proposal</a>
+<a  style="text-decoration: none; color:white;"  href=""https://nageen-asghar98.github.io/DistributedGeneticAlgorithm/Proposal.pdf"">Project Proposal</a>
 </button>
 
 <button  style=" margin-top:30px; padding: 10px 20px;  border-radius: 10px;  background-color:   #009973; border: 2px solid  #009973; color:white;" type="button" name="button" id="btn">
-<a  style="text-decoration: none; color:white;"  href="#">Documentation</a>
+<a  style="text-decoration: none; color:white;"  href=""https://nageen-asghar98.github.io/DistributedGeneticAlgorithm/Documentation.pdf">Documentation</a>
 </button>
 
 <button  style=" margin-top:30px; padding: 10px 20px;  border-radius: 10px;  background-color:   #009973; border: 2px solid  #009973; color:white;" type="button" name="button" id="btn">
