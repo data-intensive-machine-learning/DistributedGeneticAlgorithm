@@ -33,7 +33,7 @@
           
     </ul>
    
-<button  style=" margin-top:30px; padding: 10px 20px; margin-left:60px; border-radius: 10px;  background-color:   #009973; border: 2px solid  #009973; color:white;" type="button" name="button" id="btn">
+<button  style=" margin-top:30px; padding: 10px 20px; margin-left:100px; border-radius: 10px;  background-color:   #009973; border: 2px solid  #009973; color:white;" type="button" name="button" id="btn">
 <a  style="text-decoration: none; color:white;"  href="https://nageen-asghar98.github.io/DistributedGeneticAlgorithm/Proposal.pdf">Project Proposal</a>
 </button>
 
